@@ -6,7 +6,6 @@
 build/
 out/
 Debug/
-Release/
 
 # Runtime data (local high score)
 highscore.dat
@@ -15,5 +14,10 @@ highscore.dat
 .vs/
 .vscode/
 .idea/
-*.user
-release/
+*.exe
+*.o
+*.obj
+*.pdb
+
+# Release binaries are tracked intentionally
+!release/*.exe
