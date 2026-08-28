@@ -6,6 +6,7 @@
 
 | 版本 | 说明 | 下载 |
 | ---- | ---- | ---- |
+| v1.3 | 修复窗口缩放时云的位置/大小错位（云改为基准坐标实时缩放，障碍物同步重缩放） | [ChromeDino-1.3.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.3/ChromeDino-1.3.exe) |
 | v1.2 | 基于 Chromium 原版源码深度仿制（raylib 6.0 构建）：距离计分、原版速度曲线、夜间模式、原版碰撞盒、翼龙三档高度 | [ChromeDino-1.2.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.2/ChromeDino-1.2.exe) |
 | v1.1 | 自适应显示器刷新率（raylib 6.0 构建），无需输入 FPS，双击即玩 | [ChromeDino-1.1.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.1/ChromeDino-1.1.exe) |
 | v1.0 | 原版（启动时在控制台输入 FPS）（raylib 6.0 构建） | [ChromeDino-1.0.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.0/ChromeDino-1.0.exe) |
