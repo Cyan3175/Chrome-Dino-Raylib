@@ -1,4 +1,4 @@
-# Build artifacts / releases
+# Build artifacts
 *.exe
 *.o
 *.obj
@@ -14,10 +14,7 @@ highscore.dat
 .vs/
 .vscode/
 .idea/
-*.exe
-*.o
-*.obj
-*.pdb
+*.user
 
 # Release binaries are tracked intentionally
 !release/*.exe
