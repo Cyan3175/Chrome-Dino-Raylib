@@ -2,6 +2,14 @@
 
 使用 C++ 和 [raylib](https://www.raylib.com/) 编写的 Chrome 恐龙小游戏（T-Rex Runner）复刻版。
 
+## 版本与下载
+
+| 版本 | 说明 | 下载 |
+| ---- | ---- | ---- |
+| v1.2 | 基于 Chromium 原版源码深度仿制：距离计分、原版速度曲线、夜间模式、原版碰撞盒、翼龙三档高度 | [ChromeDino-1.2.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.2/ChromeDino-1.2.exe) |
+| v1.1 | 自适应显示器刷新率，无需输入 FPS，双击即玩 | [ChromeDino-1.1.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.1/ChromeDino-1.1.exe) |
+| v1.0 | 原版（启动时在控制台输入 FPS） | [ChromeDino-1.0.exe](https://github.com/Cyan3175/Chrome-Dino-Raylib/releases/download/v1.0/ChromeDino-1.0.exe) |
+
 ## 玩法
 
 - **空格 / ↑ / 鼠标左键**：跳跃
