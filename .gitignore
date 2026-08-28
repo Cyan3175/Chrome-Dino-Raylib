@@ -1,0 +1,18 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+build/
+out/
+Debug/
+Release/
+
+# Runtime data (local high score)
+highscore.dat
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
