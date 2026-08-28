@@ -7,6 +7,9 @@ build/
 out/
 Debug/
 
+# Third-party libraries (raylib prebuilt packages)
+vendor/
+
 # Reference sources (original Chromium dino_game, local study only)
 reference/
 
