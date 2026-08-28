@@ -1,4 +1,4 @@
-# Build artifacts
+# Build artifacts / releases
 *.exe
 *.o
 *.obj
@@ -16,3 +16,4 @@ highscore.dat
 .vscode/
 .idea/
 *.user
+release/
